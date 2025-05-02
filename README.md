@@ -22,7 +22,7 @@ KeyStorm is a command-line typing test application built in Python. It challenge
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/keystorm.git
+git clone https://github.com/krhte/keystorm.git
 cd keystorm
 ```
 
