@@ -25,10 +25,7 @@ KeyStorm is a command-line typing test application built in Python. It challenge
 git clone https://github.com/yourusername/keystorm.git
 cd keystorm
 ```
-### Install Dependencies:
-```bash
-pip install -r requirements.txt
-```
+
 ### License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 ### Contact:
